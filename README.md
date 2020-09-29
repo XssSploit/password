@@ -5,7 +5,7 @@ to use this script
 
 follow the commands below by writing them on the terminal
 
-git clone (the git url)
+git clone https://github.com/XssSploit/password.git
 
 cd password
 
