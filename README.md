@@ -1,17 +1,9 @@
 # password
 strong and powerful password generator
 ================================================
-Password is a script made to generate secure and powerful passwords
-===================================================================
-there may be updates on the future but for now its a working script
-
 to use this script
-go subscribe to my youtube channel it has the tutorial
-Youtube : XssSploitable
-instagram: xsssploit
-or just read on
 
-follow the commands below write them on the terminal
+follow the commands below by writing them on the terminal
 
 git clone (the git url)
 
