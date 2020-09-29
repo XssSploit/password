@@ -1,9 +1,9 @@
 # password
-Password is a bbash script to help you stay safe 
+Password is a bash script to help you stay safe 
 Password is a script made to generate secure and powerful passwords
-there ma be updates on the future but for now its a working script
 
-
+there may be updates on the future but for now its a working script
+===================================================================
 to use this script
 go subscribe to my youtube channel it has the tutorial
 Youtube : XssSploitable
